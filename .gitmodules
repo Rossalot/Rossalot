@@ -1,0 +1,3 @@
+[submodule "ssv-site/themes/gallery"]
+	path = ssv-site/themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git

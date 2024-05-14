@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Gallery on Gallery</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Hugo Gallery on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Rossalot)</managingEditor>
+    <webMaster>user@example.com (Rossalot)</webMaster>
+    <copyright>© Ross</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kroot</title>
+      <link>//localhost:1313/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/cats/</guid><media:content url="//localhost:1313/cats/Reloading_hu19740156c597abff347948263cfff8af_152301_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/cats/Reloading_hu19740156c597abff347948263cfff8af_152301_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
