@@ -1,11 +1,9 @@
 ---
 date: 2023-06-12
 featured_image: IMG_20230903_142624.jpg
-title: A Crown od Salt and Shadow
+title: A Crown of Salt and Shadow
 description: A narrative warband event in the AoS setting
+weight: 1
 menus: "main"
-sort_by: Name
-#resources:
-#  - src: MG_20230903_142624.jpg
-#    title: All the people
+# list pages require at least one image to be displayed.
 ---
