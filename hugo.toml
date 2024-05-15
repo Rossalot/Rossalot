@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/London"
 timeout = "120s"
-title = "Gallery"
+title = "Six-Sided Vice"
 
 [params]
   defaultTheme = "dark"
@@ -46,9 +46,9 @@ title = "Gallery"
 
 [menu]
   [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
+    #name = "GitHub"
+    #url = #"https://github.com/nicokaiser/hugo-theme-gallery/"
+    #weight = 3
 
 [services]
   [services.rss]
