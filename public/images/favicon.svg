@@ -1,6 +1,363 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="24" height="24"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
-  <path d="M12 9a3.75 3.75 0 100 7.5A3.75 3.75 0 0012 9z"></path>
-  <path fill-rule="evenodd" d="M9.344 3.071a49.52 49.52 0 015.312 0c.967.052 1.83.585 2.332 1.39l.821 1.317c.24.383.645.643 1.11.71.386.054.77.113 1.152.177 1.432.239 2.429 1.493 2.429 2.909V18a3 3 0 01-3 3h-15a3 3 0 01-3-3V9.574c0-1.416.997-2.67 2.429-2.909.382-.064.766-.123 1.151-.178a1.56 1.56 0 001.11-.71l.822-1.315a2.942 2.942 0 012.332-1.39zM6.75 12.75a5.25 5.25 0 1110.5 0 5.25 5.25 0 01-10.5 0zm12-1.5a.75.75 0 100-1.5.75.75 0 000 1.5z" clip-rule="evenodd"></path>
-</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
-@media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
-</style></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="70.187363"
+   inkscape:export-xdpi="70.187363"
+   inkscape:export-filename="C:\Users\Ross\Desktop\RhinoFacts.png"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 1016.8178 1018.5645"
+   height="287.46155mm"
+   width="286.96857mm">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     showguides="true"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="129.08598"
+     inkscape:cx="466.77079"
+     inkscape:zoom="0.32"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4959"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 3699.6918,1593.5815 c 209.8833,-115.0251 416.9844,-156.5367 616.59,0"
+       bendpath2="m 4316.2818,1593.5815 v 101.4859"
+       bendpath3="m 3699.6918,1695.0674 c 205.53,21.7007 411.06,22.0487 616.59,0"
+       bendpath4="m 3699.6918,1593.5815 v 101.4859"
+       bendpath3-nodetypes="cc"
+       bendpath1-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect4957"
+       is_visible="true"
+       bendpath="m 3706.9464,1616.603 c 201.299,65.6715 406.2436,79.8705 617.8508,0"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false"
+       bendpath-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4954"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 3693.9535,1459.406 c 224.9592,-20.0918 447.253,-29.5221 659.8088,0"
+       bendpath2="m 4353.7623,1459.406 v 125.5365"
+       bendpath3="m 3693.9535,1584.9425 c 224.8772,97.622 451.1095,120.7706 659.8088,0"
+       bendpath4="m 3693.9535,1459.406 v 125.5365"
+       bendpath3-nodetypes="cc"
+       bendpath1-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect4952"
+       is_visible="true"
+       bendpath="m 3704.2852,1568.1348 c 235.8674,-119.9706 448.081,-109.0828 638.1328,0"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false"
+       bendpath-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4948"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="M 3704.2852,1545.3457 H 4342.418"
+       bendpath2="m 4342.418,1545.3457 v 45.5781"
+       bendpath3="M 3704.2852,1590.9238 H 4342.418"
+       bendpath4="m 3704.2852,1545.3457 v 45.5781" />
+    <inkscape:perspective
+       id="perspective4286"
+       inkscape:persp3d-origin="-313.8903 : 292.97487 : 1"
+       inkscape:vp_z="-61.843022 : 394.08285 : 1"
+       inkscape:vp_y="0 : 999.99991 : 0"
+       inkscape:vp_x="-737.36614 : 402.65427 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4180"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 272.22522,66.544943 c 15.01882,1.996961 30.13989,4.914205 46.09716,15.357143"
+       bendpath2="M 317.60809,71.009229 V 195.66858"
+       bendpath3="m 273.11807,198.34715 c 16.27098,1.86559 30.76435,-0.89062 44.66859,-5.17857"
+       bendpath4="M 274.01093,71.009229 V 195.66858"
+       bendpath1-nodetypes="cc"
+       bendpath3-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4174"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 200.02849,70.957096 c 45.80176,0.692958 46.19879,-7.750475 72.84179,-7.98618"
+       bendpath2="m 270.33164,76.113272 1.53153,83.951338"
+       bendpath3="m 208.24339,161.28052 63.61978,-1.21591"
+       bendpath4="m 206.71187,77.329181 1.53152,83.951339"
+       bendpath1-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4171"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 210.83072,81.723515 h 39.77593"
+       bendpath2="M 250.60665,81.723515 V 194.21292"
+       bendpath3="m 210.83072,194.21292 h 39.77593"
+       bendpath4="M 210.83072,81.723515 V 194.21292" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect4169"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 172.54082,72.725145 c 16.22103,0.027 9.08617,-5.060575 35.27582,4.073876"
+       bendpath2="M 207.81664,81.723515 V 194.21292"
+       bendpath3="m 141.12891,214.54224 c 23.30163,-6.9662 34.40067,-12.86141 78.93583,-0.12627"
+       bendpath4="M 167.64542,81.723515 V 194.21292"
+       bendpath1-nodetypes="cc"
+       bendpath3-nodetypes="cc" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4542">
+      <stop
+         style="stop-color:#e98f26;stop-opacity:1"
+         offset="0"
+         id="stop4544" />
+      <stop
+         style="stop-color:#e15c29;stop-opacity:0.24562745"
+         offset="1"
+         id="stop4546" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4542"
+       id="linearGradient1387"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(896.45399,4821.9958)"
+       x1="3628.0002"
+       y1="976.95282"
+       x2="4302.9082"
+       y2="1905.3887" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.493483,-3761.0348)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3756.25"
+       y="1561.7372"
+       id="text4791"><tspan
+         sodipodi:role="line"
+         id="tspan4793"
+         x="3756.25"
+         y="1598.2303" /></text>
+    <g
+       id="g934"
+       transform="translate(669.54171,-1065.9228)">
+      <path
+         inkscape:export-filename="C:\Users\Ross\Desktop\SSV\Shield Icon.png"
+         inkscape:connector-curvature="0"
+         id="path1305"
+         d="m -133.63829,4824.0279 c -167.79581,-1e-4 -482.43168,40.1386 -482.43168,40.1386 l -27.2095,3.4264 v 75.9906 h 32.37198 c 11.41532,-3e-4 20.23453,6.6893 20.23465,16.4791 3.6e-4,9.7901 -8.81922,16.481 -20.23465,16.4808 h -32.37198 v 473.3737 c 0,105.6887 53.70193,207.0736 149.26997,281.8069 95.5681,74.7332 225.21761,116.7282 360.37121,116.7279 135.1531971,-2e-4 264.80371,-41.9964 360.37121,-116.7296 95.5676,-74.7333 149.26845,-176.1169 149.26785,-281.8052 v -473.3737 h -32.3719 c -11.415,-10e-5 -20.23288,-6.6909 -20.2326,-16.4808 2.9e-4,-9.7898 8.8174,-16.479 20.2326,-16.4791 h 32.3719 v -75.9906 l -27.2097,-3.4264 h -0.016 c -0.048,-0.011 -314.631553,-40.1369 -482.41387,-40.1369 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3a3343;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:29.51195526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:export-xdpi="51.764557"
+         inkscape:export-ydpi="51.764557" />
+      <path
+         inkscape:export-filename="C:\Users\Ross\Desktop\SSV\Shield Icon.png"
+         inkscape:connector-curvature="0"
+         id="path1307"
+         d="m -133.63829,4836.6852 c -164.44121,-1e-4 -479.8427,39.9756 -479.8427,39.9756 l -13.61254,1.7139 v 52.5514 h 16.18604 c 20.16561,-4e-4 36.42024,12.7868 36.42072,29.1365 3.6e-4,16.3503 -16.2544,29.1385 -36.42072,29.1381 h -16.18604 v 460.7164 c 0,102.3362 51.99266,200.4941 144.52923,272.8569 92.5364,72.3626 218.0596,113.021 348.92601,113.0204 130.8659971,-1e-4 256.39021,-40.6594 348.92621,-113.0221 92.53601,-72.3627 144.52735,-170.5193 144.52695,-272.8552 v -460.7164 h -16.186 c -20.16566,-1e-4 -36.41891,-12.7883 -36.41853,-29.1381 3.7e-4,-16.3492 16.25334,-29.1363 36.41853,-29.1365 h 16.186 v -52.5514 l -13.6127,-1.7139 c 0,0 -315.399863,-39.9756 -479.84046,-39.9756 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:29.51195526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:export-xdpi="51.764557"
+         inkscape:export-ydpi="51.764557" />
+      <path
+         inkscape:export-filename="C:\Users\Ross\Desktop\SSV\Shield Icon.png"
+         inkscape:export-ydpi="51.764557"
+         inkscape:export-xdpi="51.764557"
+         style="opacity:0.4;fill:url(#linearGradient1387);fill-opacity:1;stroke:none;stroke-width:13.25449467;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -133.63829,4849.3425 c -161.0295,0 -477.2692,39.8142 -477.2692,39.8142 v 29.1122 c 29.05316,-7e-4 52.60605,18.7109 52.60666,41.7937 4.8e-4,23.0834 -23.55266,41.7961 -52.60666,41.7954 v 448.0591 c 0,98.984 50.28278,193.9145 139.78829,263.9069 89.5054,69.9925 210.9011,109.3135 337.48091,109.3132 126.5794971,-2e-4 247.97611,-39.3226 337.48101,-109.3149 89.50509,-69.9924 139.78655,-164.9215 139.78615,-263.9052 V 5001.858 c -29.05316,-3e-4 -52.60503,-18.7128 -52.60456,-41.7954 8.4e-4,-23.0819 23.55215,-41.7935 52.60456,-41.7937 v -29.1122 c 0,0 -316.238163,-39.8141 -477.26716,-39.8142 z"
+         id="path1309"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccscssssscsccs" />
+      <path
+         inkscape:export-filename="C:\Users\Ross\Desktop\SSV\Shield Icon.png"
+         sodipodi:nodetypes="sccscssssscsccs"
+         inkscape:connector-curvature="0"
+         id="path1311"
+         d="m -133.63829,4849.3425 c -161.0295,0 -477.2692,39.8142 -477.2692,39.8142 v 29.1122 c 29.05316,-7e-4 52.60605,18.7109 52.60666,41.7937 4.8e-4,23.0834 -23.55266,41.7961 -52.60666,41.7954 v 448.0591 c 0,98.984 50.28278,193.9145 139.78829,263.9069 89.5054,69.9925 210.9011,109.3135 337.48091,109.3132 126.5794971,-2e-4 247.97611,-39.3226 337.48101,-109.3149 89.50509,-69.9924 139.78655,-164.9215 139.78615,-263.9052 V 5001.858 c -29.05316,-3e-4 -52.60503,-18.7128 -52.60456,-41.7954 8.4e-4,-23.0819 23.55215,-41.7935 52.60456,-41.7937 v -29.1122 c 0,0 -316.238163,-39.8141 -477.26716,-39.8142 z"
+         style="opacity:1;fill:#c5ade7;fill-opacity:1;stroke:none;stroke-width:13.25449467;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="51.764557"
+         inkscape:export-ydpi="51.764557" />
+      <path
+         inkscape:export-ydpi="51.764557"
+         inkscape:export-xdpi="51.764557"
+         inkscape:export-filename="C:\Users\Ross\Desktop\SSV\Shield Icon.png"
+         id="path1313"
+         d="m -133.6381,4849.3428 v 973.7946 c 126.5795071,-10e-5 247.97652,-39.3222 337.48151,-109.3148 89.50505,-69.9923 139.78606,-164.9215 139.78566,-263.9054 v -448.059 c -29.05317,-2e-4 -52.60589,-18.7127 -52.60533,-41.7953 7.5e-4,-23.082 23.55291,-41.7935 52.60533,-41.7938 v -29.1121 c 0,0 -316.238263,-39.8142 -477.26717,-39.8142 z"
+         style="opacity:1;fill:#8e5fd2;fill-opacity:1;stroke:none;stroke-width:13.25449467;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(1.0273865,0,0,1.0273865,-1502.831,1922.0393)"
+         id="g1512">
+        <rect
+           rx="49.698589"
+           ry="49.379433"
+           y="3286.5171"
+           x="-608.45709"
+           height="367.94513"
+           width="386.82867"
+           id="rect1315"
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:16.76281357;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           transform="matrix(0.88824116,-0.45937744,0.53303066,0.84609592,0,0)"
+           inkscape:export-filename="C:\Users\Ross\Desktop\SSV\Shield Icon.png"
+           inkscape:export-xdpi="51.764557"
+           inkscape:export-ydpi="51.764557" />
+        <ellipse
+           style="opacity:1;fill:#c5ade7;fill-opacity:1;stroke:none;stroke-width:11.24006271;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle1317"
+           cx="-474.38611"
+           cy="3372.2319"
+           transform="matrix(0.88824117,-0.45937744,0.53303067,0.84609592,0,0)"
+           rx="33.60181"
+           ry="31.961491" />
+        <ellipse
+           cy="3465.8906"
+           cx="-474.38611"
+           id="circle1319"
+           style="opacity:1;fill:#c5ade7;fill-opacity:1;stroke:none;stroke-width:11.24006271;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           transform="matrix(0.88824117,-0.45937744,0.53303067,0.84609592,0,0)"
+           rx="33.60181"
+           ry="31.961491" />
+        <ellipse
+           style="opacity:1;fill:#c5ade7;fill-opacity:1;stroke:none;stroke-width:11.24006271;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle1321"
+           cx="-474.38611"
+           cy="3568.748"
+           transform="matrix(0.88824117,-0.45937744,0.53303067,0.84609592,0,0)"
+           rx="33.60181"
+           ry="31.961491" />
+        <ellipse
+           cy="3372.2319"
+           cx="-355.7001"
+           id="circle1323"
+           style="opacity:1;fill:#c5ade7;fill-opacity:1;stroke:none;stroke-width:11.24006271;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           transform="matrix(0.88824117,-0.45937744,0.53303067,0.84609592,0,0)"
+           rx="33.60181"
+           ry="31.961491" />
+        <ellipse
+           style="opacity:1;fill:#c5ade7;fill-opacity:1;stroke:none;stroke-width:11.24006271;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle1325"
+           cx="-355.7001"
+           cy="3465.8906"
+           transform="matrix(0.88824117,-0.45937744,0.53303067,0.84609592,0,0)"
+           rx="33.60181"
+           ry="31.961491" />
+        <ellipse
+           cy="3568.748"
+           cx="-355.7001"
+           id="circle1327"
+           style="opacity:1;fill:#c5ade7;fill-opacity:1;stroke:none;stroke-width:11.24006271;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           transform="matrix(0.88824117,-0.45937744,0.53303067,0.84609592,0,0)"
+           rx="33.60181"
+           ry="31.961491" />
+      </g>
+      <g
+         transform="matrix(1.1568968,0,0,1.1568968,-1606.0965,1754.8565)"
+         id="g1503">
+        <rect
+           style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:17.12593842;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect1331"
+           width="402.15152"
+           height="369.42557"
+           x="1843.476"
+           y="2645.9858"
+           ry="44.389011"
+           rx="44.567703"
+           transform="matrix(0.97069613,0.24031026,-0.28872338,0.95741256,0,0)"
+           inkscape:export-filename="C:\Users\Ross\Desktop\SSV\Shield Icon.png"
+           inkscape:export-xdpi="51.764557"
+           inkscape:export-ydpi="51.764557" />
+        <ellipse
+           cy="3392.1479"
+           cx="-845.48779"
+           id="circle1333"
+           style="opacity:1;fill:#8e5fd2;fill-opacity:1;stroke:none;stroke-width:11.4970293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           transform="matrix(0.88824117,-0.45937743,0.53303066,0.84609592,0,0)"
+           rx="34.370003"
+           ry="32.692188" />
+        <ellipse
+           style="opacity:1;fill:#8e5fd2;fill-opacity:1;stroke:none;stroke-width:11.4970293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle1335"
+           cx="-721.39038"
+           cy="3392.1479"
+           transform="matrix(0.88824117,-0.45937743,0.53303066,0.84609592,0,0)"
+           rx="34.370003"
+           ry="32.692188" />
+        <ellipse
+           style="opacity:1;fill:#8e5fd2;fill-opacity:1;stroke:none;stroke-width:11.4970293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle1337"
+           cx="-597.29327"
+           cy="3392.1479"
+           transform="matrix(0.88824117,-0.45937743,0.53303066,0.84609592,0,0)"
+           rx="34.370003"
+           ry="32.692188" />
+      </g>
+    </g>
+  </g>
+</svg>

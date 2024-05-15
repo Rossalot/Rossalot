@@ -1,0 +1,21 @@
+@media (min-width: 640px) {
+	.ssv-logo {
+		height: 120px;
+		width: 120px;
+		align-self: baseline;
+	} 
+	main hgroup h1{
+		padding-left: 20px;
+	}
+}
+@media (max-width: 639px) {
+	.ssv-logo {
+		height: 80px;
+		width: 80px;
+		align-self: baseline;
+	} 
+	main hgroup h1{
+		padding-left: 40px;
+	}
+}
+

@@ -1,22 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Gallery on Gallery</title>
+    <title>Ross&#39; Marvellous Hobby Projects on Six-Sided Vice</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Hugo Gallery on Gallery</description>
+    <description>Recent content in Ross&#39; Marvellous Hobby Projects on Six-Sided Vice</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>user@example.com (Rossalot)</managingEditor>
     <webMaster>user@example.com (Rossalot)</webMaster>
     <copyright>© Ross</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>kroot</title>
-      <link>//localhost:1313/cats/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
-      <guid>//localhost:1313/cats/</guid><media:content url="//localhost:1313/cats/Reloading_hu19740156c597abff347948263cfff8af_152301_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <title>Lamenters Kill Team</title>
+      <link>//localhost:1313/lamenters/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/lamenters/</guid><media:content url="//localhost:1313/lamenters/0Team_hu969aaabf1ca2d909040c8e27d1b1ccaf_2013159_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/cats/Reloading_hu19740156c597abff347948263cfff8af_152301_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/lamenters/0Team_hu969aaabf1ca2d909040c8e27d1b1ccaf_2013159_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Astrovex Terrain</title>
+      <link>//localhost:1313/astrovex/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/astrovex/</guid><media:content url="//localhost:1313/astrovex/0Icky_hu166334e3234ddb52f1a36fc3c0418760_1964385_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/astrovex/0Icky_hu166334e3234ddb52f1a36fc3c0418760_1964385_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Assorted NPCs</title>
+      <link>//localhost:1313/acosas/npc/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/acosas/npc/</guid><media:content url="//localhost:1313/acosas/npc/GhostiePostie_hu083914e736fcda92623bb0828ef35170_113153_900x600_fill_q75_catmullrom_smart1.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/acosas/npc/GhostiePostie_hu083914e736fcda92623bb0828ef35170_113153_900x600_fill_q75_catmullrom_smart1.jpeg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Event Photos</title>
+      <link>//localhost:1313/acosas/weekend/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/acosas/weekend/</guid><media:content url="//localhost:1313/acosas/weekend/Coronation%20of%20Salt%20and%20Shadow_hu16339cea8732c2b21ce04c2b3ae8ee5b_2785061_900x600_fill_catmullrom_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/acosas/weekend/Coronation%20of%20Salt%20and%20Shadow_hu16339cea8732c2b21ce04c2b3ae8ee5b_2785061_900x600_fill_catmullrom_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>The Last Wanderings of Athel Loren</title>
+      <link>//localhost:1313/acosas/warband/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/acosas/warband/</guid><media:content url="//localhost:1313/acosas/warband/PXL_20230609_110521905_hu6394cb69f101a89f204e75ecf0b2c7ba_138864_900x600_fill_q75_h2_catmullrom_smart1_2.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/acosas/warband/PXL_20230609_110521905_hu6394cb69f101a89f204e75ecf0b2c7ba_138864_900x600_fill_q75_h2_catmullrom_smart1_2.webp&quot; /&gt;
+          &lt;p&gt;A warband built around the vintage Skaw the Falconer mini, and painted in the style of the 90s elven army I always dreamed of.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Kroot Warriors</title>
+      <link>//localhost:1313/kroot/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/kroot/</guid><media:content url="//localhost:1313/kroot/2_GoodJobMate_hu5b5a4c30e3ea235aa54876eae9eab3c1_131186_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/kroot/2_GoodJobMate_hu5b5a4c30e3ea235aa54876eae9eab3c1_131186_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Aun&#39;el Ka&#39;pi Tau&#39;n</title>
+      <link>//localhost:1313/kapi/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/kapi/</guid><media:content url="//localhost:1313/kapi/Kapi_hub1798765a6572c0ff4503d0c5d3b079b_3406480_900x600_fill_catmullrom_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/kapi/Kapi_hub1798765a6572c0ff4503d0c5d3b079b_3406480_900x600_fill_catmullrom_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Sunbird Ace</title>
+      <link>//localhost:1313/sunbird/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
+      <guid>//localhost:1313/sunbird/</guid><media:content url="//localhost:1313/sunbird/Sunbird_hu398ff4d139a079ae9b7b42356ca4f12f_1270566_900x600_fill_catmullrom_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/sunbird/Sunbird_hu398ff4d139a079ae9b7b42356ca4f12f_1270566_900x600_fill_catmullrom_smart1_3.png&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
