@@ -1,7 +1,7 @@
 ---
 date: 2023-04-01
 featured_image: Reloading.jpg
-title: kroot
+title: Kroot Warriors
 #type: gallery
 sort_by: Name
 resources:

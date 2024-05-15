@@ -1,6 +1,7 @@
 ---
 date: 2024-04-01
 featured_image: 0Team.jpg
+title: Lamenters Kill Team
 #type: gallery
 sort_by: Name
 resources:
