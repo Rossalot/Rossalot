@@ -1,7 +1,8 @@
 ---
 date: 2018-10-28
-featured_image: Sunbird.jpg
+featured_image: 1.jpg
 title: Sunbird Ace
+description: X-Wing minis game A-Wing repaint.
 #type: gallery
 sort_by: Name
 resources:

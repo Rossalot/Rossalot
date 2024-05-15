@@ -77,10 +77,10 @@
       <title>Sunbird Ace</title>
       <link>//localhost:1313/sunbird/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0100</pubDate><author>user@example.com (Rossalot)</author>
-      <guid>//localhost:1313/sunbird/</guid><media:content url="//localhost:1313/sunbird/Sunbird_hu398ff4d139a079ae9b7b42356ca4f12f_1270566_900x600_fill_catmullrom_smart1_3.png" type="image/jpeg"/>
+      <guid>//localhost:1313/sunbird/</guid><media:content url="//localhost:1313/sunbird/1_hue22389c8634d02802ea96f2f4e3dc348_101185_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/sunbird/Sunbird_hu398ff4d139a079ae9b7b42356ca4f12f_1270566_900x600_fill_catmullrom_smart1_3.png&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;img src=&quot;//localhost:1313/sunbird/1_hue22389c8634d02802ea96f2f4e3dc348_101185_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;X-Wing minis game A-Wing repaint.&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
