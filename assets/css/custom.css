@@ -16,6 +16,15 @@
 	} 
 	main hgroup h1{
 		padding-left: 40px;
+		font-size: 1.55rem;
+		margin-top: -18px;
+	}
+}
+@media (max-width: 450px) {
+	main hgroup h1{
+		font-size: 1.4rem;
+		margin-top: -25px;
+		padding-left: 50px;
 	}
 }
 
