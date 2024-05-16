@@ -9,11 +9,11 @@ title = "Six-Sided Vice"
 
 [params]
   defaultTheme = "dark"
-  description = "These are my plastic children"
-  title = "Things Ross has made"
+  description = "These are my favrourite plastic children. Please do not tell the others, though."
+  title = "Ross' hobby gallery"
   logo = "logo.png"
   [params.author]
-    email = "user@example.com"
+    #email = "user@example.com"
     name = "Rossalot"
   [params.socialIcons]
     #facebook = "https://www.facebook.com/"
