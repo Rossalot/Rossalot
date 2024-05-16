@@ -1,7 +1,7 @@
 ---
 #description: WIP on a SSV gallery
 lastmod: 2024-05-15
-title: Ross' Marvellous Hobby Projects
+title: Ross' Hobby Projects
 featured_image: out.png # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
