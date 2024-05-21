@@ -8,7 +8,6 @@ sort_by: Name
 resources:
   - src: Barricades.jpg
     title: These barricades were a last minute addition I'm really happy with - completely daft and completely fitting!
-	description: Not sure this value is read?
   - src: 95.jpg
     title: At some point in building the team I misplaced a torso. This veteran from the Space Crusade board game stepped in as understudy for the heavy weapons marine o7
 ---
