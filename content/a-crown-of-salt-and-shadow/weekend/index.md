@@ -1,7 +1,7 @@
 ---
 date: 2023-06-12
 featured_image: Coronation of Salt and Shadow.png
-title: Event Photos
+title: Assorted Event Photos
 #type: gallery
 sort_by: Name
 #resources:

@@ -2,7 +2,7 @@
 date: 2018-10-28
 featured_image: 1.jpg
 title: Sunbird Ace
-description: X-Wing minis game A-Wing repaint. Our second child had just been born and used the meagre hobby time on this centrepiece for my team.
+description: A repainted A-Wing from the X-Wing miniatures game. It had a glorious career as a flanking asset in our play through of the co-op Heroes of the Aturi Cluster fan campaign.
 #type: gallery
 sort_by: Name
 resources:
